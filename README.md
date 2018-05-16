@@ -1,1 +1,1 @@
-# assorted_iotex_project_scripts
+# various code that I wrote while working at IoTeX as a community manager 
